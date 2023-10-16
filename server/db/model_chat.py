@@ -13,17 +13,11 @@ class Chat(Base):
     __tablename__ = 'chats'
 
     id = Column(Integer, primary_key=True, index=True)
-    text = Column(String(50))
-    sessionID = Column(Text)
-    # username = Column(String(50), unique=True)
-    # question = Column(String(50))
-    # answer = Column(String(50))
+    text = Column(Text)
 
 
 class ChatBase(BaseModel):
     text: str
-    # Test 를 위한 sessionID 추가
-    sessionID: str
 
 
 def get_db():
