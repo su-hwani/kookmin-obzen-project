@@ -1,6 +1,6 @@
 export default class HttpClient {
   constructor(baseURL) {
-    this.baseURL = "https://43-202-78-244.nip.io";
+    this.baseURL = baseURL;
   }
 
   async fetch(url, options) {

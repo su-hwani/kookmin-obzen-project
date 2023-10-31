@@ -8,7 +8,7 @@ import ChatService from "./service/chat";
 const root = ReactDOM.createRoot(
   document.getElementById("root") as HTMLElement
 );
-const baseURL = process.env.BASE_URL;
+const baseURL = process.env.REACT_APP_BASE_URL;
 const httpClient = new HttpClient(baseURL);
 const chatService = new ChatService(httpClient);
 
