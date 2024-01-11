@@ -20,6 +20,12 @@
 <img width="400"  alt="스크린샷 2024-01-11 오후 4 02 33" src="https://github.com/su-hwani/kookmin-obzen-project/assets/54920289/f1d4d824-cac2-4569-9219-c7f297a2ef5d">
 </p>
 
+## 결과물
+| youtube | report |
+| :-------------------------------------------: | :------------: |
+| [유튜브](https://www.youtube.com/watch?v=EiUo2GAD-bM) | [산학프로젝트 결과보고서](https://github.com/su-hwani/kookmin-obzen-project/files/13898931/default.pdf)|
+
+
 
 ## Stacks 🐈
 ### Environment
