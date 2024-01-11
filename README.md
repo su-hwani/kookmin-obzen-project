@@ -16,8 +16,9 @@
 > 특히 Obzect Flow Designer를 활용하여 고객의 속성과 반응에 따라 개인화된 마케팅 경로를 설계하고 실행합니다.<br/>
 > 이를 통해 다음과 같은 핵심 목표를 달성하고자 합니다.<br/>**
 <br/>
+<p align="center">
 <img width="400"  alt="스크린샷 2024-01-11 오후 4 02 33" src="https://github.com/su-hwani/kookmin-obzen-project/assets/54920289/f1d4d824-cac2-4569-9219-c7f297a2ef5d">
-
+</p>
 
 
 ## Stacks 🐈
@@ -41,6 +42,7 @@
 ![Zoom](https://img.shields.io/badge/Zoom-0B5CFF?style=for-the-badge&logo=Zoom&logoColor=white)
 
 ## 화면 구성 📺
+
 | 메인 페이지 | 대화 페이지|
 | :-------------------------------------------: | :------------: |
 | <img width="329" alt="스크린샷 2024-01-11 오후 3 47 13" src="https://github.com/su-hwani/kookmin-obzen-project/assets/54920289/c7151c9c-f279-4378-a149-a018b5f7a0f2">| <img width="329" alt="스크린샷 2024-01-11 오후 3 47 26" src="https://github.com/su-hwani/kookmin-obzen-project/assets/54920289/8466d918-8e2d-4ab9-b787-6055f5c03390">|
