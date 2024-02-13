@@ -25,9 +25,8 @@
 | :-------------------------------------------: | :------------: |
 | [유튜브](https://www.youtube.com/watch?v=EiUo2GAD-bM) | [산학프로젝트 결과보고서](https://github.com/su-hwani/kookmin-obzen-project/files/13898931/default.pdf)|
 
-
-
 ## Stacks 🐈
+
 ### Environment
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
@@ -36,6 +35,8 @@
 ### Client
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ReactQuery](https://img.shields.io/badge/ReactQuery-20232A?style=for-the-badge&logo=reactquery&logoColor=FF4154)
+
 ### Server
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white)
@@ -46,6 +47,10 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-0B5CFF?style=for-the-badge&logo=Zoom&logoColor=white)
+
+<p align="center">
+<img width="300" alt="스크린샷 2023-10-25 오후 10 50 42" src="https://github.com/su-hwani/kookmin-obzen-project/assets/54920289/fe56af72-7f74-415f-ba96-76b0889ceb7c">
+</p>
 
 ## 화면 구성 📺
 
